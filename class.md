@@ -1,0 +1,2 @@
+name: goga
+accupation: worker
